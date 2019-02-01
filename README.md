@@ -1,5 +1,5 @@
 # tail-f-Vim
-Using vim like tail -f.
+Using `tail -f` in Vim.
 
 ## Installation
 ```bash
