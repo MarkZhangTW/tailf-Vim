@@ -14,3 +14,8 @@ echo "alias tailf=\"vim -R -c 'source `pwd`/tailf.vim'\"" >> ~/.bash_aliases
 tailf /var/log/syslog
 ```
 ![](https://raw.githubusercontent.com/HuaiShaoChang/tail-f-Vim/master/image.png)
+
+## Syntax for log files
+```vim
+:set syntax=messages
+```
