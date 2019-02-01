@@ -3,7 +3,7 @@ Using vim like tail -f.
 
 ## Installation
 ```bash
-git clone https://github.com/HuiaShaoChang/tail-f-Vim.git
+git clone https://github.com/HuaiShaoChang/tail-f-Vim.git
 cd tail-f-Vim
 echo "alias tailf=\"vim -R -c 'source `pwd`/tailf.vim'\"" >> ~/.bash_aliases
 . ~/.bash_aliases
