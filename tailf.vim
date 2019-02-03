@@ -8,7 +8,7 @@ set linebreak
 autocmd CursorHold * checktime
 " pretend the user press the G key to the end of the file
 autocmd CursorHold * call feedkeys("G")
-" set updatetime to 0.2 seconds
-set updatetime=200
+" set updatetime to 0.45 seconds
+set updatetime=450
 " map key "q" to quit vim in normal mode
 noremap q :q!<CR>
